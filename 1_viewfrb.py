@@ -8,9 +8,8 @@
 import os, sys
 import numpy as np
 from globalpars import *
-from htrfns.dynamic_fns import *
-from htrfns.scintillation_fns import *
-from htrfns.burstfns import *
+from dynamic_fns import *
+from burstfns import *
 
 def print_instructions():
 
