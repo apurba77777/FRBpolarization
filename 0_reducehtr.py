@@ -8,7 +8,7 @@
 import os, sys
 import numpy as np
 from globalpars import *
-from htrfns.anfns import *
+from anfns import *
 
 def print_instructions():
 
